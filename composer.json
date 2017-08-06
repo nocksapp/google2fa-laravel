@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4",
         "laravel/framework": "~5",
-        "nocksapp/google2fa": "~2.0"
+        "nocksapp/google2fa": "dev-master"
     },
     "require-dev": {
         "phpspec/phpspec": "~3",
